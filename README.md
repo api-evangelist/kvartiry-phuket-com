@@ -1,4 +1,4 @@
-# kvartiry-phuket-com
+# Kvartiry Phuket
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,137 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 kvartiry-phuket-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://kvartiry-phuket.com/
+
+**Areas:** Company
+
+## Kvartiry Phuket on APIs.io
+
+Everything profiled for Kvartiry Phuket is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kvartiry-phuket-com/](https://apis.io/providers/kvartiry-phuket-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [Kvartiry Phuket Articles API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-articles-api/) — The Articles API from Kvartiry Phuket — 1 operation(s) for articles.
+- [Kvartiry Phuket Articles.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-articles-json-api/) — The Articles.json API from Kvartiry Phuket — 1 operation(s) for articles.json.
+- [Kvartiry Phuket Beach Calm.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-beach-calm-json-api/) — The Beach Calm.json API from Kvartiry Phuket — 1 operation(s) for beach calm.json.
+- [Kvartiry Phuket Beaches.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-beaches-json-api/) — The Beaches.json API from Kvartiry Phuket — 1 operation(s) for beaches.json.
+- [Kvartiry Phuket Blog API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-blog-api/) — The Blog API from Kvartiry Phuket — 1 operation(s) for blog.
+- [Kvartiry Phuket Climate.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-climate-json-api/) — The Climate.json API from Kvartiry Phuket — 1 operation(s) for climate.json.
+- [Kvartiry Phuket Condo Assessment.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-condo-assessment-json-api/) — The Condo Assessment.json API from Kvartiry Phuket — 1 operation(s) for condo assessment.json.
+- [Kvartiry Phuket Districts.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-districts-json-api/) — The Districts.json API from Kvartiry Phuket — 1 operation(s) for districts.json.
+- [Kvartiry Phuket Faq.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-faq-json-api/) — The Faq.json API from Kvartiry Phuket — 1 operation(s) for faq.json.
+- [Kvartiry Phuket Index.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-index-json-api/) — The Index.json API from Kvartiry Phuket — 1 operation(s) for index.json.
+- [Kvartiry Phuket Live Cams.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-live-cams-json-api/) — The Live Cams.json API from Kvartiry Phuket — 1 operation(s) for live cams.json.
+- [Kvartiry Phuket MCP API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-mcp-api/) — The Mcp API from Kvartiry Phuket — 1 operation(s) for mcp.
+- [Kvartiry Phuket Observed Weather.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-observed-weather-json-api/) — The Observed Weather.json API from Kvartiry Phuket — 1 operation(s) for observed weather.json.
+- [Kvartiry Phuket Openapi.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-openapi-json-api/) — The Openapi.json API from Kvartiry Phuket — 1 operation(s) for openapi.json.
+- [Kvartiry Phuket Prices.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-prices-json-api/) — The Prices.json API from Kvartiry Phuket — 1 operation(s) for prices.json.
+- [Kvartiry Phuket Sea Now API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-sea-now-api/) — The Sea Now API from Kvartiry Phuket — 1 operation(s) for sea now.
+- [Kvartiry Phuket Sea Today.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-sea-today-json-api/) — The Sea Today.json API from Kvartiry Phuket — 1 operation(s) for sea today.json.
+- [Kvartiry Phuket Weather Now API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-weather-now-api/) — The Weather Now API from Kvartiry Phuket — 1 operation(s) for weather now.
+- [Kvartiry Phuket Weather Now.json API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-weather-now-json-api/) — The Weather Now.json API from Kvartiry Phuket — 1 operation(s) for weather now.json.
+- [Kvartiry Phuket .well Known API](https://apis.io/apis/kvartiry-phuket-com/kvartiry-phuket-com-well-known-api/) — The .well Known API from Kvartiry Phuket — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Kvartiry Phuket Agentic Access](https://apis.io/agentic-access/kvartiry-phuket-com/kvartiry-phuket-com-agentic-access/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [Article](https://apis.io/schemas/kvartiry-phuket-com/kvartiry-phuket-com-article/)
+- [ArticleList](https://apis.io/schemas/kvartiry-phuket-com/kvartiry-phuket-com-article-list/)
+- [Document](https://apis.io/schemas/kvartiry-phuket-com/kvartiry-phuket-com-document/)
+- [JsonRpcMessage](https://apis.io/schemas/kvartiry-phuket-com/kvartiry-phuket-com-json-rpc-message/)
+- [SeaToday](https://apis.io/schemas/kvartiry-phuket-com/kvartiry-phuket-com-sea-today/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Kvartiry Phuket Com Context](https://apis.io/jsonld/kvartiry-phuket-com/kvartiry-phuket-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Kvartiry Phuket API Rules](https://apis.io/rules/kvartiry-phuket-com/kvartiry-phuket-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kvartiry Phuket Domain Security](https://apis.io/security/kvartiry-phuket-com/kvartiry-phuket-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kvartiry-phuket.com/)
+- [API reference](https://kvartiry-phuket.com/llms.txt)
+- [Changelog](https://kvartiry-phuket.com/ceny/releases/2026-10-01-9621a14faad5-ru-r1/)
+- [Blog](https://kvartiry-phuket.com/blog/)
+- [Terms of service](https://kvartiry-phuket.com/terms/)
+- [Privacy policy](https://kvartiry-phuket.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 33.8** — thin · rubric 0.28.0 · scored 2026-11-14
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.3 |
+| Contract quality | 50.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 17.0 |
+
+**Agent readiness 24.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kvartiry-phuket-com/](https://apis.io/providers/kvartiry-phuket-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kvartiry Phuket: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kvartiry-phuket-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
